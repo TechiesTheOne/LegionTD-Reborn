@@ -2,7 +2,7 @@
 {
   "FirstPrepTime"           "60"
   "PrepTimeBetweenRounds"   "35"
-  "PrepTimeBeforeDuel"      "10"
+  "PrepTimeBeforeDuel"      "15"
 
   "LastSpawn"
   {
@@ -239,7 +239,7 @@
       "round_type"            "duel"
       "round_title"           "Duel_Quest_Title"
       "determines_winner"     "false"
-      "bounty"                "5"
+      "bounty"                "50"
     }
 
     "7"                       // Wave 6
@@ -307,7 +307,7 @@
       "round_type"            "duel"
       "round_title"           "Duel_Quest_Title"
       "determines_winner"     "false"
-      "bounty"                "15"
+      "bounty"                "100"
     }
 
     "13"                      // Wave 11
@@ -375,7 +375,7 @@
       "round_type"            "duel"
       "round_title"           "Duel_Quest_Title"
       "determines_winner"     "false"
-      "bounty"                "25"
+      "bounty"                "200"
     }
 
     "19"                      // Wave 16
@@ -443,7 +443,7 @@
       "round_type"            "duel"
       "round_title"           "Duel_Quest_Title"
       "determines_winner"     "false"
-      "bounty"                "35"
+      "bounty"                "400"
     }
 
     "25"                      // Wave 21
@@ -511,7 +511,7 @@
       "round_type"            "duel"
       "round_title"           "Duel_Quest_Title"
       "determines_winner"     "false"
-      "bounty"                "50"
+      "bounty"                "800"
     }
 
     "31"                      // Wave 26
@@ -575,7 +575,7 @@
       "round_type"            "duel"
       "round_title"           "Duel_Quest_Title"
       "determines_winner"     "true"
-      "bounty"                "150"
+      "bounty"                "1600"
     }
 
     "37"                      // Wave 31
@@ -643,7 +643,7 @@
       "round_type"            "duel"
       "round_title"           "Duel_Quest_Title"
       "determines_winner"     "true"
-      "bounty"                "200"
+      "bounty"                "3200"
     }
 	
 	"43"                      // Wave 36
