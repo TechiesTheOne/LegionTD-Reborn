@@ -34,8 +34,8 @@ function elementalbuilder_passive_start(keys)
     local elementElemental = {}
     --Worth 2 but -1
     local elementBender = {}
-    local maxStacks = 10
-    local maxNegativeStacks = 30
+    local maxStacks = 15
+    local maxNegativeStacks = 45
 
     Timers:CreateTimer(function()
 
